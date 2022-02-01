@@ -1,0 +1,59 @@
+body {
+  background-color: #79a0d3;
+  text-align: center;
+  font-family: "Poiret One";
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.main-nav {
+  padding: 20px;
+  margin: 0 100px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.works {
+}
+
+.top3 {
+}
+
+.card {
+  border: dotted #ede6dc 16px;
+  border-radius: 5px;
+  padding: 20px;
+  width: 30%;
+  height: 350px;
+  margin: 50px;
+}
+
+.picture {
+  width: 5em;
+  border-radius: 3px;
+  margin: 15px;
+}
+
+.summary {
+  line-height: 25px;
+  font-size: 18px;
+}
+
+#picture-about {
+  border-radius: 3px;
+  margin: 15px;
+}
+
+article {
+  line-height: 50px;
+  margin: 0 150px;
+}
